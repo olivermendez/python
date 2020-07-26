@@ -1,6 +1,6 @@
 # Fundamentals
 
-Es importante comenzar desde el inicio.
+
 
 ## Program
 
@@ -59,4 +59,13 @@ Quiz
 
 ## Libros utlizados
     - Cracking coding Interview
+
+
+## Fuentes utlizadas
+* [Solo Learn](https://www.sololearn.com/)
+
+* [Hacker Rank](https://www.hackerrank.com/)
+
+* [Leet Code](https://www.leetcode.com/)
+
 
